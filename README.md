@@ -52,10 +52,8 @@ evaluation and comparison against the commercial VeriFinger SDK.
 
 ## Selected technical work
 
-- [Logics-Parsing-Server](https://github.com/0xcccccccccccc/Logics-Parsing-Server): infrastructure for complex-document parsing and structured extraction
 - [kholidays_cn](https://github.com/0xcccccccccccc/kholidays_cn): tooling and data maintenance for Chinese public holidays in KDE
 - [x11guard](https://github.com/0xcccccccccccc/x11guard): experiments in observing screenshot behavior under X11
-- [TRANHOST](https://github.com/0xcccccccccccc/tranhost-server): an early distributed file-sharing service over IPv4 and IPv6
 - [RT-Thread](https://github.com/RT-Thread/rt-thread): Loongson BSP and driver contributions
 
 ## Contact
