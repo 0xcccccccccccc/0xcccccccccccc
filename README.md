@@ -61,5 +61,6 @@ Neurotechnology VeriFinger.
 ## Contact
 
 - Email: [mahaoran@nextbanker.ai](mailto:mahaoran@nextbanker.ai)
+- ORCID: [0009-0006-9624-8351](https://orcid.org/0009-0006-9624-8351)
 - Semantic Scholar: [Haoran Ma](https://www.semanticscholar.org/author/2262199877)
 - Amateur radio: **BI1WMB**
