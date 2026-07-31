@@ -47,8 +47,8 @@ Y. Jia, S. Zheng, F. Feng, **H. Ma**, Z. Cui, and F. Su,
 "[Robust 3D Feature Extraction and Graph Pose-Invariant Matching for Contactless Fingerprint](https://doi.org/10.1109/TBIOM.2026.3685624),"
 *IEEE Transactions on Biometrics, Behavior, and Identity Science*, 2026.
 
-My contribution was the comparative evaluation of the proposed method against
-Neurotechnology VeriFinger.
+My contribution was an automated benchmarking pipeline for reproducible
+evaluation and comparison against the commercial VeriFinger SDK.
 
 ## Selected technical work
 
