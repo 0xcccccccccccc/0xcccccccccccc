@@ -1,7 +1,7 @@
 # Haoran Ma
 
 I am a systems engineer and technical founder interested in the infrastructure
-that makes large-scale AI reliable, efficient, and useful in production.
+that makes large-scale AI efficient, scalable, and useful in production.
 
 I currently serve as co-founder and CTO at
 [NextBanker](https://nextbanker.cn), where I lead engineering across production
@@ -16,9 +16,12 @@ infrastructure.
 
 ## What I am exploring
 
-- Failure detection and localization across accelerators, networks, and software
-- Communication, scheduling, and recovery in distributed training and inference
-- Observability and control planes for long-running, tool-using AI systems
+- Communication and collective execution across accelerators and high-performance
+  networks
+- Scheduling, resource allocation, and recovery in distributed training and
+  inference
+- Runtime semantics, permissions, and evaluation for long-running, tool-using AI
+  systems
 - Turning systems research into infrastructure products
 
 I believe compute will remain persistently scarce. The interesting problem is
