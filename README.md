@@ -14,6 +14,8 @@ embedded operating systems, and kernel drivers at Beijing University of Posts
 and Telecommunications. It now informs the questions I care about in AI
 infrastructure.
 
+[Resume](https://www.overleaf.com/read/ftpvshsjwdzq#fb4953)
+
 ## What I am exploring
 
 - Communication and collective execution across accelerators and high-performance
